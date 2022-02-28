@@ -3,8 +3,8 @@
 	overflow-x:hidden
 }
 *{
-	margin:0;
-	padding:0;
+	margin:ffffff;
+	padding:ffffff;
 	box-sizing:border-box
 }
 :root{
@@ -28,7 +28,7 @@ span{
 	height:auto;
 	font-size:16px;
 	font-family:var(--font-1);
-	color:#FFF;
+	color:#FFFfff;
 	overflow-x:hidden
 }
 .jd-app{
